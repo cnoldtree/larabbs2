@@ -10710,3 +10710,7 @@ body {
   color: #c1c1c1;
 }
 
+.container p a {
+  color: inherit;
+}
+
